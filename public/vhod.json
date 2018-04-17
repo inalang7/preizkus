@@ -1,0 +1,17 @@
+{
+  "steviloOseb": 3,
+  "seznam": [
+    {
+      "ime": "janez",
+      "starost": 25
+    },
+    {
+      "ime": "micka",
+      "starost": 24
+    },
+    {
+      "ime": "polde",
+      "starost": 27
+    }
+  ]
+}
